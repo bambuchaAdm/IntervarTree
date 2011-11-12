@@ -1,0 +1,19 @@
+Próba implementacji uniwersalnych drzew przedziałowych.
+
+Zalozenia
+
+Obsluga obu zasiegow
+-punkt
+-przedzial
+
+Obsluga wielu operacji poprzez rozszerzanie Node
+
+Planowana obsluga
+(+,+)
+(+,max)
+(max,+)
+(max,max)
+
+oraz jezeli bedzie sie dalo
+
+([+,-],max)
